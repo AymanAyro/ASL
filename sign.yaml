@@ -1,0 +1,9 @@
+path: # Specify path to data where 'train' and 'val' folders are present
+train: train  
+val:   valid 
+
+# Classes
+nc: 32  # number of classes
+names: ['ain', 'al', 'aleff','bb','dal','dha','dhad','fa','gaaf','ghain','ha','haa','jeem','kaaf','khaa','la','laam',
+        'meem','nun','ra','saad','seen','sheen','ta','taa','thaa','thal','toot','waw','ya','yaa','zay'] # class names
+
