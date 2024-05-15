@@ -24,7 +24,9 @@ Arabic Sign Language(ASL): A visual-gestural language used by deaf and hard of h
 
 ## Features
 
-- The ASL detection system is able to detect and track ASL gestures in real-time.
+- The ASL detection system is able to detect the gestures by predicting the boundary box of where the gesture is and what it describes as a label
+- Works on Real-Time inference
+- Utilizes any webcam to apply the inference
 
 ## Demo
 
