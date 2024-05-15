@@ -20,6 +20,7 @@ Arabic Sign Language(ASL): A visual-gestural language used by deaf and hard of h
 
 ![ASL](MD/Sign_Letters.jpg)
 
+Dataset: [Link Text]([https://pytorch.org/get-started/locally/](https://www.kaggle.com/datasets/ammarsayedtaha/arabic-sign-language-dataset-2022))
 ## Features
 
 - The ASL detection system is able to detect and track ASL gestures in real-time.
