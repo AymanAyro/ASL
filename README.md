@@ -1,6 +1,6 @@
 # Arabic Sign Language Real-Time Detection
 
-![Project Banner](MD/Banner.png)
+![Project Banner](MD/Banner_B.png)
 
 ## Overview
 
