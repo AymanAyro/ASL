@@ -26,7 +26,7 @@ Arabic Sign Language(ASL): A visual-gestural language used by deaf and hard of h
 
 ## Demo
 
-![Video](MD/demo.mp4)
+![Demo](MD/demo.gif)
 
 ## Installation
 
@@ -58,4 +58,3 @@ pip install numpy
 ## Presentation
 
 ![Slides](MD/ASL.pdf)
-![Presentation](MD/ASL.pptx)
