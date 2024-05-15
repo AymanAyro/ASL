@@ -61,4 +61,4 @@ pip install numpy
 
 ## Presentation
 
-![Slides](MD/ASL.pdf)
+![Slides](ASL.pdf)
